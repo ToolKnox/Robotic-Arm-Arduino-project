@@ -1,0 +1,11 @@
+category,item_key,name,qty,notes,source
+MCU,arduino-mega-2560,Arduino Mega 2560,1,Default controller from existing README hardware target table.,readme-hardware-target
+Driver shield,ramps-1-4,RAMPS 1.4,1,Default driver shield from existing README hardware target table.,readme-hardware-target
+Joint motors,nema17-stepper-motor,NEMA17 stepper motor,3,X/Y/Z = base/shoulder/elbow from existing README.,readme-hardware-target
+Stepper drivers,a4988-stepper-driver,A4988 stepper driver,3,One per NEMA17 joint; from existing README.,readme-hardware-target
+Gripper motor,28byj-48-stepper-motor,28BYJ-48 stepper motor,1,Default gripper option from existing README.,readme-hardware-target
+Gripper driver,uln2003-driver-board,ULN2003 driver board,1,For 28BYJ-48 gripper; from existing README.,readme-hardware-target
+Alternative gripper,hobby-servo,Hobby servo,1,Alternative gripper option noted in existing README.,readme-hardware-target
+Homing switches,limit-switch,Limit switch,3,One per stepper joint; from existing README.,readme-hardware-target
+Power supply,12-v-4-a-psu-with-2-1-mm-dc-jack,12 V / 4 A PSU with 2.1 mm DC jack,1,From existing README.,readme-hardware-target
+Cooling,12-v-5010-fan,12 V 5010 fan,1,From existing README.,readme-hardware-target
