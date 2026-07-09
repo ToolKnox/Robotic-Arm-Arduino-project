@@ -4,14 +4,13 @@ A 4-DOF belt-driven robotic arm running on an **Arduino Mega 2560 + RAMPS 1.4 sh
 
 📺 **It in motion:** <https://youtu.be/T5URUtJ1Zg4>
 
-> Firmware lives here. The linked guides and Bill of Material cover the mechanical build, wiring, ordering, and first-test workflow.
+> Firmware lives here. The linked guides and Bill of Material PDF cover the mechanical build, wiring, ordering, and first-test workflow.
 
 ---
 
 ## Build resources
 
-- [Bill of Material](https://toolknox.github.io/Robotic-Arm-Arduino-project/bill-of-material.html) — browser page with clickable purchase links.
-- [BOM PDF](docs/BOM.pdf) — downloadable archive copy.
+- [Bill of Material PDF](docs/BOM.pdf) — downloadable BOM with clickable Amazon / Geniuslink purchase links.
 - [Assembly guide](docs/assembly-guide.md)
 - [Wiring guide](docs/wiring.md)
 - [Firmware guide](docs/firmware.md)

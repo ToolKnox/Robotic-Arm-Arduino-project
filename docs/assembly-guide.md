@@ -20,29 +20,7 @@ Source material used here:
 
 ## Printed parts
 
-The structured BOM now contains the 21 printed parts from the original Printables description:
-
-1. robot_belt_arm basering
-2. robot_belt_arm leg (x3)
-3. robot_belt_arm socket_v2
-4. robot_belt_arm rotategear
-5. robot_belt_arm main_body_v2
-6. robot_belt_arm endstop
-7. robot_belt_arm gear_body (x2)
-8. robot_belt_arm lever
-9. lower_shank_140
-10. upper_shank_140
-11. pleuel_140
-12. robot_belt_arm triplate
-13. pleuel_bend_140 (x2)
-14. pleuel_bend_140 - mirrored (x2)
-15. triplate_dual
-16. manipulator_dual
-17. gripperBase_by_ftobler
-18. gripper_shaft
-19. gripperFinger_by_ftobler (x2)
-20. Wire_Guide
-21. robot_belt_arm stabilizer - myMOD
+Printed parts are intentionally not included in the purchase BOM. Download the model package from the listing/release and print the full arm part set before starting assembly.
 
 ## Mechanical assembly sequence
 
@@ -76,7 +54,7 @@ Use the visual assembly PDF as the drawing reference. The page titles indicate t
 ## Build notes
 
 - Keep the pulleys loose until the belt path is aligned, then tighten gradually.
-- The attached BOM image calls for 3x 2GT-6mm 200 mm closed belts and 3x 20-tooth 2GT pulleys.
+- The BOM image calls for 3x 2GT-6mm 200 mm closed belts and 3x 20-tooth 2GT pulleys.
 - Fit F624ZZ/F686ZZ bearings squarely. Do not force them through printed bores with a screw if the bore is visibly undersized; clean the bore first.
 - Mount the three endstops so each axis can home before it reaches a mechanical hard stop.
 - Keep wiring accessible until the first homing and motion tests pass.

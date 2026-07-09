@@ -15,8 +15,9 @@ This project now has structured portal docs plus the original visual PDFs from t
 
 ## BOM source notes
 
-- The new structured BOM uses the attached BOM image as the quantity authority.
-- The older Printables description supplied the Geniuslink purchase links and the printed-parts list.
+- The structured purchase BOM uses the attached BOM image as the quantity authority for bought components and fasteners.
+- Printed parts are intentionally excluded from the purchase BOM.
+- The older Printables description supplied the Geniuslink purchase links.
 - Differences found while importing:
   - `2GT-6mm Closed Belt 200mm`: attached image shows x3; older description table listed x1. The portal BOM uses x3.
   - `M2 10mm Button Head Screw`: attached image shows x6; older description table listed x10. The portal BOM uses x6.
