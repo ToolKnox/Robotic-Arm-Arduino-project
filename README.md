@@ -10,7 +10,7 @@ A 4-DOF belt-driven robotic arm running on an **Arduino Mega 2560 + RAMPS 1.4 sh
 
 ## Build resources
 
-- [Bill of Material PDF](docs/BOM.pdf) — downloadable BOM with clickable Amazon / Geniuslink links and AliExpress search fallbacks.
+- [Bill of Material PDF](docs/BOM.pdf) — downloadable BOM with clickable Amazon / Geniuslink and tracked AliExpress affiliate links.
 - [Assembly guide](docs/assembly-guide.md)
 - [Wiring guide](docs/wiring.md)
 - [Firmware guide](docs/firmware.md)
