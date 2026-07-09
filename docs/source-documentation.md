@@ -18,6 +18,7 @@ This project now has structured portal docs plus the original visual PDFs from t
 - The structured purchase BOM uses the attached BOM image as the quantity authority for bought components and fasteners.
 - Printed parts are intentionally excluded from the purchase BOM.
 - The older Printables description supplied the Geniuslink purchase links.
+- AliExpress links are currently generated as search fallback URLs because the AliExpress API token endpoint returned a maintenance page during import. They are clickable search links, not confirmed `s.click.aliexpress.com` affiliate-wrapped links.
 - Differences found while importing:
   - `2GT-6mm Closed Belt 200mm`: attached image shows x3; older description table listed x1. The portal BOM uses x3.
   - `M2 10mm Button Head Screw`: attached image shows x6; older description table listed x10. The portal BOM uses x6.
